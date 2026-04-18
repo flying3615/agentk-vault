@@ -22,5 +22,8 @@
 ## Maintenance
 - [[日常运维指南|04-Maintenance/日常运维指南.md]]
 
+## Agent Skills
+- [[核心辅助开发技能|05-AgentSkills/核心辅助开发技能.md]]
+
 ## References
 (No references yet)
