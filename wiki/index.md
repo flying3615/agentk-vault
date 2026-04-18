@@ -9,6 +9,7 @@
 - [[策略详解-TurtleSoup|01-Modules/策略详解-TurtleSoup.md]]
 - [[策略详解-SqueezeStraddle|01-Modules/策略详解-SqueezeStraddle.md]]
 - [[策略详解-BandReversion|01-Modules/策略详解-BandReversion.md]]
+- [[AI分析器技能(Prompts)|01-Modules/AI分析器技能(Prompts).md]]
 
 ## Logic Flows
 - [[核心交易工作流|02-LogicFlows/核心交易工作流.md]]

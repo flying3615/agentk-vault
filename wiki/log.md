@@ -22,6 +22,11 @@
 - 在 `03-Concepts` 下新增 `ADX趋势强度与应用.md`，解释了 Squeeze Straddle 中的 ADX 惩罚与甜点计分机制。
 - 更新了 `wiki/index.md` 和各策略详解页面的交叉引用。
 
+## [2026-04-19] Expand | Prompts & AI Skills Documentation
+- 重构了 `01-Modules/AI分析器技能(Prompts).md`。
+- 详细描述了 AgentK 中的 Prompt DSL (Domain Specific Language) 机制，解释了如何通过 `spec.ts` 和 `schema-registry.ts` 将大语言模型 (DeepSeek/Qwen) 的输出强制收束为 JSON 对象。
+- 按交易阶段分类列举了 `Idle`, `Sniper`, `Open`, `VisionRisk`, `AGradeFallback` 等数十种不同的 AI Prompt 技能模版。
+
 ## [2026-04-19] Expand | Agent CLI Skills Documentation
 - 新增 `05-AgentSkills/核心辅助开发技能.md`，将 `.agents/skills` 目录下用于辅助开发的各类 Prompt/Skill（如 `brainstorming`, `test-driven-development`, `obsidian-markdown` 等）整理入库。
 - 新增项目级核心定制技能 `Skill-VPSTradeReplay.md` 和 `Skill-SegmentBacktestReplay.md`。
