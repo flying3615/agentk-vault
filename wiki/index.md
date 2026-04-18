@@ -24,6 +24,8 @@
 
 ## Agent Skills
 - [[核心辅助开发技能|05-AgentSkills/核心辅助开发技能.md]]
+- [[Skill-SegmentBacktestReplay|05-AgentSkills/Skill-SegmentBacktestReplay.md]]
+- [[Skill-VPSTradeReplay|05-AgentSkills/Skill-VPSTradeReplay.md]]
 
 ## References
 (No references yet)

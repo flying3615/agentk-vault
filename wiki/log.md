@@ -24,6 +24,7 @@
 
 ## [2026-04-19] Expand | Agent CLI Skills Documentation
 - 新增 `05-AgentSkills/核心辅助开发技能.md`，将 `.agents/skills` 目录下用于辅助开发的各类 Prompt/Skill（如 `brainstorming`, `test-driven-development`, `obsidian-markdown` 等）整理入库。
+- 新增项目级核心定制技能 `Skill-VPSTradeReplay.md` 和 `Skill-SegmentBacktestReplay.md`。
 - 区分了 AgentK 代码本身的 AI Prompts 与开发者本地 AI 助手的行为规范 (Superpowers)。
 - 更新了首页 `index.md` 索引。
 - 在 Modules 目录下新增 `策略详解-StandardICT.md`。
