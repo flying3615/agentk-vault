@@ -18,6 +18,8 @@
 ## [2026-04-19] Ingest | VWAP Strategy Knowledge
 - 吸收了 `raw/VWAP Entry Strategies for Day Traders.md` 的内容。
 - 在 `03-Concepts` 下新增 `VWAP交易原理与应用.md`，将外部交易常识与 AgentK 内部的 VWAP Bounce 和 Band Reversion 代码逻辑进行了映射结合。
+- 吸收了 `raw/indicator/ADX Explained How to Measure and Trade Trend Strength.md` 的内容。
+- 在 `03-Concepts` 下新增 `ADX趋势强度与应用.md`，解释了 Squeeze Straddle 中的 ADX 惩罚与甜点计分机制。
 - 更新了 `wiki/index.md` 和各策略详解页面的交叉引用。
 
 ## [2026-04-19] Expand | Strategy Detailed Pages
