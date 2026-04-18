@@ -15,6 +15,11 @@
 - 删除了 `01-Chapters`, `02-Themes`, `04-Quotes`, `05-Checks` 等空模板目录。
 - 清理了 `01-Modules`, `02-LogicFlows`, `03-Concepts` 目录下初始化的脚手架 `README.md`，使文件组织完全符合 Obsidian 双链文档结构。
 
+## [2026-04-19] Ingest | VWAP Strategy Knowledge
+- 吸收了 `raw/VWAP Entry Strategies for Day Traders.md` 的内容。
+- 在 `03-Concepts` 下新增 `VWAP交易原理与应用.md`，将外部交易常识与 AgentK 内部的 VWAP Bounce 和 Band Reversion 代码逻辑进行了映射结合。
+- 更新了 `wiki/index.md` 和各策略详解页面的交叉引用。
+
 ## [2026-04-19] Expand | Strategy Detailed Pages
 - 在 Modules 目录下新增 `策略详解-StandardICT.md`。
 - 在 Modules 目录下新增 `策略详解-TurtleSoup.md`。

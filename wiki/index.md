@@ -16,6 +16,7 @@
 ## Concepts
 - [[策略路由|03-Concepts/策略路由.md]]
 - [[自动反转机制|03-Concepts/自动反转机制.md]]
+- [[VWAP交易原理与应用|03-Concepts/VWAP交易原理与应用.md]]
 
 ## Maintenance
 - [[日常运维指南|04-Maintenance/日常运维指南.md]]
