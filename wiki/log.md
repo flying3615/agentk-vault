@@ -19,4 +19,5 @@
 - 在 Modules 目录下新增 `策略详解-StandardICT.md`。
 - 在 Modules 目录下新增 `策略详解-TurtleSoup.md`。
 - 在 Modules 目录下新增 `策略详解-SqueezeStraddle.md`。
+- 在 Modules 目录下新增 `策略详解-BandReversion.md`，解释其双重身份。
 - 更新了首页 `index.md` 中的链接索引。
