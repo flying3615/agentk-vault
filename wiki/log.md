@@ -23,6 +23,7 @@
 - 更新了 `wiki/index.md` 和各策略详解页面的交叉引用。
 
 ## [2026-04-19] Visual | Add Architecture Diagram
+- 接入了使用大模型生成的 AgentK 业务流架构图 (`agentk-architecture.jpg`)。
 - 在 `00-Overview/项目总览.md` 中补充了使用 Obsidian Mermaid 语法绘制的系统架构图，清晰展现了量化引擎、AI分析器、外部环境和存储层的数据流向。
 
 ## [2026-04-19] Expand | Prompts & AI Skills Documentation
