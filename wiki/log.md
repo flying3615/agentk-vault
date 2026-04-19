@@ -22,6 +22,9 @@
 - 在 `03-Concepts` 下新增 `ADX趋势强度与应用.md`，解释了 Squeeze Straddle 中的 ADX 惩罚与甜点计分机制。
 - 更新了 `wiki/index.md` 和各策略详解页面的交叉引用。
 
+## [2026-04-19] Visual | Add Architecture Diagram
+- 在 `00-Overview/项目总览.md` 中补充了使用 Obsidian Mermaid 语法绘制的系统架构图，清晰展现了量化引擎、AI分析器、外部环境和存储层的数据流向。
+
 ## [2026-04-19] Expand | Prompts & AI Skills Documentation
 - 重构了 `01-Modules/AI分析器技能(Prompts).md`。
 - 详细描述了 AgentK 中的 Prompt DSL (Domain Specific Language) 机制，解释了如何通过 `spec.ts` 和 `schema-registry.ts` 将大语言模型 (DeepSeek/Qwen) 的输出强制收束为 JSON 对象。
