@@ -5,6 +5,7 @@
 
 ## Modules
 - [[策略出入场条件|01-Modules/策略出入场条件.md]]
+- [[策略路由模块|01-Modules/策略路由模块.md]]
 - [[策略详解-StandardICT|01-Modules/策略详解-StandardICT.md]]
 - [[策略详解-TurtleSoup|01-Modules/策略详解-TurtleSoup.md]]
 - [[策略详解-SqueezeStraddle|01-Modules/策略详解-SqueezeStraddle.md]]
